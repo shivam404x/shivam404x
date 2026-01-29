@@ -1,4 +1,5 @@
-# 💫 About Me:
+💫 Improved GitHub Profile README
+
 <div align="center"><br><br># 👋 Hello, I'm Shivam<br>## 🎓 First-Year Computer Science Student.<br><br></div><br>-----<br>## 🚀 About Me<br>I'm a passionate software developer studying at **K.R.Mangalam University**, specializing in building robust and scalable applications. I transform ideas into elegant code, with a focus on creating impactful digital experiences.<br><br><br>```javascript<br>const shivam = {<br>    role: "Engineering Student & Aspiring Full-Stack Developer",<br>    location: "India 🇮🇳",<br>    passion: "Building scalable web applications & smart tech systems",<br>    currentlyLearning: ["Data Structures & Algorithms", "System Design"],<br>    techStack: {<br>        frontend: ["HTML", "CSS", "JavaScript", "React"],<br>        backend: ["Node.js", "Express"],<br>        database: ["MongoDB", "MySQL"],<br>        languages: ["JavaScript", "Python", "Java"]<br>    },<br>    currentGoal: "Creating impactful real-world projects 🚀",<br>    mindset: "Code → Debug → Improve → Repeat 🔥"<br>};<br>```<br>
 
 
