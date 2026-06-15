@@ -27,4 +27,4 @@
 [![](https://visitcount.itsvg.in/api?id=shivam404x&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=shivam404x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" /> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    es me v type script laga kar head ko acha bana dho 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->    
