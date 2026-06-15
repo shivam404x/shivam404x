@@ -1,19 +1,120 @@
-💫 Improved GitHub Profile README
+<div align="center">
 
-<div align="center"><br><br># 👋 Hello, I'm Shivam Kumar<br>### 🎓 2nd Year Computer Science Student<br><br></div>## 💫 About Me  <br>I'm a passionate software developer studying at **K.R. Mangalam University**, specializing in building robust and scalable applications. I transform ideas into elegant code, with a focus on creating impactful digital experiences.<br><br>```javascript<br>const shivam = {<br>    role: "Engineering Student & Aspiring Full-Stack Developer",<br>    location: "India 🇮🇳",<br>    passion: "Building scalable web applications & smart tech systems",<br>    currentlyLearning: ["Data Structures & Algorithms", "System Design"],<br>    techStack: {<br>        frontend: ["HTML", "CSS", "JavaScript", "React"],<br>        backend: ["Node.js", "Express"],<br>        database: ["MongoDB", "MySQL"],<br>        languages: ["JavaScript", "Python", "Java"]<br>    },<br>    currentGoal: "Creating impactful real-world projects 🚀",<br>    mindset: "Code → Debug → Improve → Repeat 🔥"<br>};<br>```
+# 👋 Hi, I'm Shivam Roy
 
+### 🚀 Full-Stack Developer | 💻 CSE Student | 🌱 Lifelong Learner
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Bw31VBVmM/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shivam29.7?igsh=MTd5d3loY3A3anNkdA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-roy-526570265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivam404x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivam404x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam404x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=shivam404x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shivam404x&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   
+## 💫 About Me
+
+🎓 2nd Year Computer Science Student at **K.R. Mangalam University**
+
+💡 Passionate about building scalable web applications and solving real-world problems through code.
+
+🌱 Currently learning **Data Structures & Algorithms, System Design, and TypeScript**
+
+🚀 Working on full-stack projects using modern web technologies.
+
+⚡ Fun Fact: I enjoy transforming ideas into products that people can actually use.
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  currentlyLearning: string[];
+  techStack: {
+    frontend: string[];
+    backend: string[];
+    database: string[];
+    languages: string[];
+  };
+  goal: string;
+}
+
+const shivam: Developer = {
+  name: "Shivam Roy",
+  role: "Aspiring Full-Stack Developer",
+  location: "India 🇮🇳",
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "System Design",
+    "TypeScript"
+  ],
+  techStack: {
+    frontend: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    backend: [
+      "Node.js",
+      "Express.js"
+    ],
+    database: [
+      "MongoDB",
+      "MySQL"
+    ],
+    languages: [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Java"
+    ]
+  },
+  goal: "Building impactful software that solves real problems 🚀"
+};
+```
+
+---
+
+## 🛠️ Core Technologies
+
+### Frontend
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
+
+### Backend
+`Node.js` `Express.js`
+
+### Database
+`MongoDB` `MySQL`
+
+### Tools
+`Git` `GitHub` `Docker` `Postman` `AWS` `Vercel` `Netlify`
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=shivam404x&show_icons=true&theme=tokyonight)
+
+![](https://nirzak-streak-stats.vercel.app/?user=shivam404x&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam404x&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn
+- 📸 Instagram
+- 📘 Facebook
+
+---
+
+### 💭 Developer Mindset
+
+> "Code → Learn → Build → Improve → Repeat 🔥"
+
+⭐ If you like my work, don't forget to star my repositories.
