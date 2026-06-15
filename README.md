@@ -7,9 +7,7 @@
 
 ### 🚀 Full-Stack Developer | 💻 CSE Student | 🌱 Lifelong Learner | 🎓 2nd Year Computer Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=shivam404x&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Impactful+Projects+🚀" />
 
 </div><br></div>## 💫 About Me  <br>I'm a passionate software developer studying at **K.R. Mangalam University**, specializing in building robust and scalable applications. I transform ideas into elegant code, with a focus on creating impactful digital experiences.<br><br>```javascript<br>const shivam = {<br>    role: "Engineering Student & Aspiring Full-Stack Developer",<br>    location: "India 🇮🇳",<br>    passion: "Building scalable web applications & smart tech systems",<br>    currentlyLearning: ["Data Structures & Algorithms", "System Design"],<br>    techStack: {<br>        frontend: ["HTML", "CSS", "JavaScript", "React"],<br>        backend: ["Node.js", "Express"],<br>        database: ["MongoDB", "MySQL"],<br>        languages: ["JavaScript", "Python", "Java"]<br>    },<br>    currentGoal: "Creating impactful real-world projects 🚀",<br>    mindset: "Code → Debug → Improve → Repeat 🔥"<br>};<br>```
 
