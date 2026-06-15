@@ -1,11 +1,11 @@
 💫 Improved GitHub Profile README
 
- <div align="center"><br><br># 👋 Hello, I'm Shivam Kumar<br>### 🎓 2nd Year Computer Science Student<br>
+ <div align="center"><br><br>
   <div align="center"> 
 
 # 👋 Hi, I'm Shivam Roy
 
-### 🚀 Full-Stack Developer | 💻 CSE Student | 🌱 Lifelong Learner
+### 🚀 Full-Stack Developer | 💻 CSE Student | 🌱 Lifelong Learner | 🎓 2nd Year Computer Science Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
