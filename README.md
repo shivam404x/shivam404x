@@ -1,7 +1,7 @@
 💫 Improved GitHub Profile README
 
-<div align="center"><br><br># 👋 Hello, I'm Shivam Kumar<br>### 🎓 2nd Year Computer Science Student<br>
-  <div align="center">
+<!-- <div align="center"><br><br># 👋 Hello, I'm Shivam Kumar<br>### 🎓 2nd Year Computer Science Student<br>
+  <div align="center"> -->
 
 # 👋 Hi, I'm Shivam Roy
 
